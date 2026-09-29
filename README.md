@@ -14,6 +14,14 @@ Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH
 
 If developing CB-Sheets on your local machine, use Ruby 3.4.x (Ruby 4 does not work with the `github-pages` gem) or check the "Gemfile" comments for options.
 
+## DSG Workshop Metadata Information
+
+Roxbury Mural Information
+
+Disco Queen Mural Information
+
+Everybody Wants a Piece of East Boston 
+
 ----------
 
 ## CollectionBuilder 
