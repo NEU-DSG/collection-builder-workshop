@@ -1,7 +1,8 @@
-# CollectionBuilder-Sheets
+# DSG Template: CollectionBuilder-Sheets
 
-CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
+This CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
 This enables live collaboration to prototype collections with minimal set up.
+This is the Digital Scholarship Group's teaching template for using CollectionBuilder-Sheets.
 Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
 The resulting static site can be hosted on any basic web server (*or built automatically and hosted for free on GitHub Pages!*).
 
