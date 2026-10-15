@@ -17,14 +17,27 @@ If developing CB-Sheets on your local machine, use Ruby 3.4.x (Ruby 4 does not w
 ## DSG Workshop Metadata Information
 
 ### Roxbury Mural Information
-
-
+#### FacesOfDudley_JermaineGC_1.jpg
+Title:  Faces of Dudley	1 \
+Creator: Mayors Mural Crew, Mike Womble	Jermaine G-C	Boston Research Center, ICA Teen Photography Collection \
+Date: 7/8/2025 \
+Type of resource: born digital image \
+Abstract/description: A mural painted with acrylics in Dudley Square, directed by Mike Womble of the Mayor's Mural Crew along with a group of teen artists in 1995. It displays various Roxbury features, such as a train station, small businesses such as a barbershop, a basketball hoop, light posts, and faces of Roxbury residents. Among the people depicted are Malcolm X, Melnea Cass, and Elma Lewis. This is the only one of three murals painted by the Mayor's Mural Crew in Dudley Square that has not yet been demolished. \
+Subject: Public art; Roxbury, MA
+#### FacesOfDudley_JermaineGC_3.jpg
+Title:  Faces of Dudley	3 \
+Creator: Mayors Mural Crew, Mike Womble	Jermaine G-C	Boston Research Center, ICA Teen Photography Collection \
+Date: 7/8/2025 \
+Type of resource: born digital image \	
+Abstract/description: A mural painted with acrylics in Dudley Square, directed by Mike Womble of the Mayor's Mural Crew along with a group of teen artists in 1995. It displays various Roxbury features, such as a train station, small businesses such as a barbershop, a basketball hoop, light posts, and faces of Roxbury residents. Among the people depicted are Malcolm X, Melnea Cass, and Elma Lewis. This is the only one of three murals painted by the Mayor's Mural Crew in Dudley Square that has not yet been demolished. \
+Subject: Public art; Roxbury, MA
 ### Queen of Disco Mural Information
 Title: Queen of Disco \
 Creator: Cedric "Vise1" Douglas	(Artist), Brianna B (Photographer), Boston Research Center, ICA Teen Photography Collection \
 Date created: 7/8/2025 \
 Abstract/description: a mural of Donna Summer located in Roxbury, Massachusetts \
-Type of resource: born digital image
+Type of resource: born digital image \
+Subject: Public art; Roxbury, MA; Donna Summer
 
 
 ### Everybody Wants a Piece of East Boston
