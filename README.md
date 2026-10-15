@@ -25,20 +25,20 @@ If developing CB-Sheets on your local machine, use Ruby 3.4.x (Ruby 4 does not w
   #### Transcript
 
   Title: Transcript of 'Everybody Wants a Piece of East Boston' (English) \
-Creator: MacDonald, Christine (Editor), Peralta Torres , Claudia (Editor), Boston Research Center, Hola Cultura. 
+Creator: MacDonald, Christine (Editor), Peralta Torres , Claudia (Editor), Boston Research Center, Hola Cultura \
 Date created: January 2025 \
-Type of resource: Text. 
-Abstract/Description: English language transcript of the recording 'Everybody Wants a Piece of East Boston.' "Everybody wants a piece of East Boston," Eva Biscegli observed in an oral history interview recorded in the late 1990s. Decades later, as developers move in, those words still ring true. But adversity has bred generations of committed resident activists and big successes over the years - like stopping Boston Logan International Airport's expansion in the 1970s and banding together to provide mutual aid during the COVID-19 pandemic. Journalist Renée Loth reminisces about the East Boston Community News (1970-1989) while Chris Marchi of Air Inc.; Liliana Tirado Arteaga of Mothers Out Front; and Eastie Farm's Kannan Thiruvengadam discuss the neighborhood today.  
-Subjects and keywords: East Boston History, Environmental justice, COVID-19 (Disease), Community organization. 
+Type of resource: Text \
+Abstract/Description: English language transcript of the recording 'Everybody Wants a Piece of East Boston.' "Everybody wants a piece of East Boston," Eva Biscegli observed in an oral history interview recorded in the late 1990s. Decades later, as developers move in, those words still ring true. But adversity has bred generations of committed resident activists and big successes over the years - like stopping Boston Logan International Airport's expansion in the 1970s and banding together to provide mutual aid during the COVID-19 pandemic. Journalist Renée Loth reminisces about the East Boston Community News (1970-1989) while Chris Marchi of Air Inc.; Liliana Tirado Arteaga of Mothers Out Front; and Eastie Farm's Kannan Thiruvengadam discuss the neighborhood today. \
+Subjects and keywords: East Boston History, Environmental justice, COVID-19 (Disease), Community organization \
   #### Audio
 
-  Title: Everybody Wants a Piece of East Boston
-  Creator: MacDonald, Christine (Scriptwriter), Peralta Torres, Claudia (Scriptwriter, Audio editor),Boston Research Center, Hola Cultura
-  Date created: January 2025
-  Type of resource: Moving image
-  Format: Video
-  Abstract/Description: "Everybody wants a piece of East Boston," Eva Biscegli observed in an oral history interview recorded in the late 1990s. Decades later, as developers move in, those words still ring true. But adversity has bred generations of committed resident activists and big successes over the years - like stopping Boston Logan International Airport's expansion in the 1970s and banding together to provide mutual aid during the COVID-19 pandemic. Journalist   Renée Loth reminisces about the East Boston Community News (1970-1989) while Chris Marchi of Air Inc.; Liliana Tirado Arteaga of Mothers Out Front; and Eastie Farm's Kannan Thiruvengadam discuss the neighborhood today.
-  Subjects and keywords: East Boston History, Environmental justice, COVID-19 (Disease), Community organization
+  Title: Everybody Wants a Piece of East Boston \
+  Creator: MacDonald, Christine (Scriptwriter), Peralta Torres, Claudia (Scriptwriter, Audio editor),Boston Research Center, Hola Cultura \
+  Date created: January 2025 \
+  Type of resource: Moving image \
+  Format: Video \
+  Abstract/Description: "Everybody wants a piece of East Boston," Eva Biscegli observed in an oral history interview recorded in the late 1990s. Decades later, as developers move in, those words still ring true. But adversity has bred generations of committed resident activists and big successes over the years - like stopping Boston Logan International Airport's expansion in the 1970s and banding together to provide mutual aid during the COVID-19 pandemic. Journalist   Renée Loth reminisces about the East Boston Community News (1970-1989) while Chris Marchi of Air Inc.; Liliana Tirado Arteaga of Mothers Out Front; and Eastie Farm's Kannan Thiruvengadam discuss the neighborhood today. \
+  Subjects and keywords: East Boston History, Environmental justice, COVID-19 (Disease), Community organization \
 
 
 
