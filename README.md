@@ -24,7 +24,7 @@ Title: Queen of Disco \
 Creator: Cedric "Vise1" Douglas	(Artist), Brianna B (Photographer), Boston Research Center, ICA Teen Photography Collection \
 Date created: 7/8/2025 \
 Abstract/description: a mural of Donna Summer located in Roxbury, Massachusetts \
-Type of resource: born digital image \
+Type of resource: born digital image
 
 
 ### Everybody Wants a Piece of East Boston
